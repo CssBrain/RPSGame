@@ -6,5 +6,5 @@ Simple game to improve javascript skills
 // game.js file with the javascript code part
 
 Free to use
-bye
+by
 CssBrain 
